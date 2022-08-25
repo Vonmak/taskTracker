@@ -1,4 +1,4 @@
-# trial2
+# TASK TRACKER
 
 ## Project setup
 ```
